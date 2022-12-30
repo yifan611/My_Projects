@@ -4,8 +4,8 @@
   Project for the Python Programming module of the Data Analyst program (DA24STO) at Hyper Island Stockholm.
 
 ## Authors: ##
-**Milton Strandberg** -  \
-**Yifan Yang** - https://github.com/yifan611
+**Milton Strandberg** 
+**Yifan Yang** 
 
 ## Description: ##
 
