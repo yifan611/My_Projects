@@ -1,13 +1,13 @@
-# crypto_trading
+# CryptoViewDriven
   Cryptocoin data download and visualisation for helping making decision to buy or not.
 
-## crypto_trading© ##
+## CryptoViewDriven© ##
 Python version 3.8
 
 Project for the Python Programming module of the Data Analyst program (DA24STO) at Hyper Island Stockholm.
 
 ### Authors: ###
-**Milton Strandberg** - 
+**Milton Strandberg** -  \
 **Yifan Yang** - https://github.com/yifan611
 
 ### Description: ###
