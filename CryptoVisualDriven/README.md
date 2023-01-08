@@ -5,7 +5,7 @@
 
 ## Authors: ##
 **Milton Strandberg - https://github.com/milleyo** \
-**Yifan Yang - https://github.com/yifan611 ** 
+**Yifan Yang - https://github.com/yifan611** 
 
 ## Description: ##
 
